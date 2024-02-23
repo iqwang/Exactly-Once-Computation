@@ -1,0 +1,2 @@
+- Code for ECE paper published in IEEE IoT Journal, which is further developed on MR-Edge paper published in CCNC 2019
+- ndnSIM simulator is used for development and tests
